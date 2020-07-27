@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sarafotros/calculator-react-2/static/css/main.7fa15487.chunk.css",
+    "main.js": "/sarafotros/calculator-react-2/static/js/main.f8b34c7c.chunk.js",
+    "main.js.map": "/sarafotros/calculator-react-2/static/js/main.f8b34c7c.chunk.js.map",
+    "runtime-main.js": "/sarafotros/calculator-react-2/static/js/runtime-main.a2194a2c.js",
+    "runtime-main.js.map": "/sarafotros/calculator-react-2/static/js/runtime-main.a2194a2c.js.map",
+    "static/js/2.2179ff43.chunk.js": "/sarafotros/calculator-react-2/static/js/2.2179ff43.chunk.js",
+    "static/js/2.2179ff43.chunk.js.map": "/sarafotros/calculator-react-2/static/js/2.2179ff43.chunk.js.map",
+    "index.html": "/sarafotros/calculator-react-2/index.html",
+    "precache-manifest.a462ed5671dff11add6114edff54ed51.js": "/sarafotros/calculator-react-2/precache-manifest.a462ed5671dff11add6114edff54ed51.js",
+    "service-worker.js": "/sarafotros/calculator-react-2/service-worker.js",
+    "static/css/main.7fa15487.chunk.css.map": "/sarafotros/calculator-react-2/static/css/main.7fa15487.chunk.css.map",
+    "static/js/2.2179ff43.chunk.js.LICENSE.txt": "/sarafotros/calculator-react-2/static/js/2.2179ff43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2194a2c.js",
+    "static/js/2.2179ff43.chunk.js",
+    "static/css/main.7fa15487.chunk.css",
+    "static/js/main.f8b34c7c.chunk.js"
+  ]
+}
