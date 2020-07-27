@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/sarafotros/calculator-react-2/static/css/main.7fa15487.chunk.css",
-    "main.js": "/sarafotros/calculator-react-2/static/js/main.f8b34c7c.chunk.js",
-    "main.js.map": "/sarafotros/calculator-react-2/static/js/main.f8b34c7c.chunk.js.map",
-    "runtime-main.js": "/sarafotros/calculator-react-2/static/js/runtime-main.a2194a2c.js",
-    "runtime-main.js.map": "/sarafotros/calculator-react-2/static/js/runtime-main.a2194a2c.js.map",
-    "static/js/2.2179ff43.chunk.js": "/sarafotros/calculator-react-2/static/js/2.2179ff43.chunk.js",
-    "static/js/2.2179ff43.chunk.js.map": "/sarafotros/calculator-react-2/static/js/2.2179ff43.chunk.js.map",
-    "index.html": "/sarafotros/calculator-react-2/index.html",
-    "precache-manifest.a462ed5671dff11add6114edff54ed51.js": "/sarafotros/calculator-react-2/precache-manifest.a462ed5671dff11add6114edff54ed51.js",
-    "service-worker.js": "/sarafotros/calculator-react-2/service-worker.js",
-    "static/css/main.7fa15487.chunk.css.map": "/sarafotros/calculator-react-2/static/css/main.7fa15487.chunk.css.map",
-    "static/js/2.2179ff43.chunk.js.LICENSE.txt": "/sarafotros/calculator-react-2/static/js/2.2179ff43.chunk.js.LICENSE.txt"
+    "main.css": "/github.com/calculator-react-2/static/css/main.7fa15487.chunk.css",
+    "main.js": "/github.com/calculator-react-2/static/js/main.7fcb3512.chunk.js",
+    "main.js.map": "/github.com/calculator-react-2/static/js/main.7fcb3512.chunk.js.map",
+    "runtime-main.js": "/github.com/calculator-react-2/static/js/runtime-main.b982b1f3.js",
+    "runtime-main.js.map": "/github.com/calculator-react-2/static/js/runtime-main.b982b1f3.js.map",
+    "static/js/2.2179ff43.chunk.js": "/github.com/calculator-react-2/static/js/2.2179ff43.chunk.js",
+    "static/js/2.2179ff43.chunk.js.map": "/github.com/calculator-react-2/static/js/2.2179ff43.chunk.js.map",
+    "index.html": "/github.com/calculator-react-2/index.html",
+    "precache-manifest.fb82af40d13595dd60686faabc295f85.js": "/github.com/calculator-react-2/precache-manifest.fb82af40d13595dd60686faabc295f85.js",
+    "service-worker.js": "/github.com/calculator-react-2/service-worker.js",
+    "static/css/main.7fa15487.chunk.css.map": "/github.com/calculator-react-2/static/css/main.7fa15487.chunk.css.map",
+    "static/js/2.2179ff43.chunk.js.LICENSE.txt": "/github.com/calculator-react-2/static/js/2.2179ff43.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a2194a2c.js",
+    "static/js/runtime-main.b982b1f3.js",
     "static/js/2.2179ff43.chunk.js",
     "static/css/main.7fa15487.chunk.css",
-    "static/js/main.f8b34c7c.chunk.js"
+    "static/js/main.7fcb3512.chunk.js"
   ]
 }
